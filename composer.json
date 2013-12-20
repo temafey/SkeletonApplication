@@ -1,0 +1,8 @@
+{
+    "require": {
+	    "temafey/phalcon-engine": "dev-master",
+        "phalcon/incubator": "dev-master",
+        "phalcon/devtools": "dev-master",
+        "ruflin/Elastica": "dev-master"
+    }
+}
