@@ -6,7 +6,7 @@ return new \Phalcon\Config([
         'adapter' => 'pdo\Mysql',
         //'adapter' => 'cacheable\Mysql',
         'host' => 'localhost',
-        'username' => 'root2',
+        'username' => 'root',
         'password' => 'root',
         'dbname' => 'eventweekly_dev',
         'useAnnotations' => false,
